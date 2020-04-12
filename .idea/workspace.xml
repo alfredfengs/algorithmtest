@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569a7bf2-8bf7-47c0-b1c7-20b4af4ebccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DbTest/IndexTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/removeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/DynamicArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/QueueBasedOnLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/skiplist/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/BinarySearchTree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alfred &lt;zhifenghan@aliyun.com&gt;" />
+        <option value="alfredfengs" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\software\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/learngit.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vn3VVG5Yj6EwpIF6hNze2EdBbh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alfred\workspace-idea\practice\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DbTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alfred\workspace-idea\Handwriting\algorithmtest\src" />
+      <recent name="C:\Users\alfred\workspace-idea\Handwriting\algorithmtest\src\queue" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.removeNode">
+    <configuration name="nextSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.nextSort" />
+      <module name="algorithmtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plus_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.plus_one" />
+      <module name="algorithmtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.removeNode" />
+      <module name="algorithmtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.removeNode" />
+        <item itemvalue="Application.plus_one" />
+        <item itemvalue="Application.nextSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569a7bf2-8bf7-47c0-b1c7-20b4af4ebccf" name="Default Changelist" comment="" />
+      <created>1577870573376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577870573376</updated>
+      <workItem from="1577870575314" duration="783000" />
+      <workItem from="1577871525098" duration="62000" />
+      <workItem from="1577871615747" duration="238000" />
+      <workItem from="1577872055363" duration="1352000" />
+      <workItem from="1577875062936" duration="339000" />
+      <workItem from="1577875528874" duration="1698000" />
+      <workItem from="1577966202757" duration="2050000" />
+      <workItem from="1578144498951" duration="4547000" />
+      <workItem from="1578189919249" duration="123000" />
+      <workItem from="1583571768591" duration="719000" />
+      <workItem from="1585967228664" duration="3660000" />
+      <workItem from="1585992901345" duration="7722000" />
+      <workItem from="1586055308763" duration="5843000" />
+      <workItem from="1586135851937" duration="1284000" />
+      <workItem from="1586658354850" duration="601000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化工程">
+      <created>1577872136271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577872136271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="plus one">
+      <created>1578151669586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578151669586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化工程" />
+    <MESSAGE value="plus one" />
+    <option name="LAST_COMMIT_MESSAGE" value="plus one" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="66" width="826" height="666" key="CommitChangelistDialog2" timestamp="1578151669024">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="351" y="66" width="826" height="666" key="CommitChangelistDialog2/0.40.1536.824@0.40.1536.824" timestamp="1578151669024" />
+    <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1586659045532">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="549" y="207" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1586659045532" />
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom" timestamp="1585974348024">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1585974348024" />
+    <state width="1493" height="229" key="GridCell.Tab.0.center" timestamp="1585974348023">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1585974348023" />
+    <state width="1493" height="229" key="GridCell.Tab.0.left" timestamp="1585974348023">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1585974348023" />
+    <state width="1493" height="229" key="GridCell.Tab.0.right" timestamp="1585974348024">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1585974348024" />
+    <state width="1478" height="210" key="GridCell.Tab.1.bottom" timestamp="1578151841610">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.1.bottom/0.40.1536.824@0.40.1536.824" timestamp="1578151841610" />
+    <state width="1478" height="210" key="GridCell.Tab.1.center" timestamp="1578151841609">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.1.center/0.40.1536.824@0.40.1536.824" timestamp="1578151841609" />
+    <state width="1478" height="210" key="GridCell.Tab.1.left" timestamp="1578151841609">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.1.left/0.40.1536.824@0.40.1536.824" timestamp="1578151841609" />
+    <state width="1478" height="210" key="GridCell.Tab.1.right" timestamp="1578151841609">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1478" height="210" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1578151841609" />
+    <state x="270" y="94" key="SettingsEditor" timestamp="1586008373094">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="270" y="94" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1586008373094" />
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2" timestamp="1578151673011">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="185" key="Vcs.Push.Dialog.v2/0.40.1536.824@0.40.1536.824" timestamp="1578151673011" />
+    <state x="449" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1578189978937">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="449" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1578189978937" />
+    <state x="196" y="80" width="1034" height="683" key="new project wizard" timestamp="1578190041355">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="196" y="80" width="1034" height="683" key="new project wizard/0.40.1536.824@0.40.1536.824" timestamp="1578190041355" />
+    <state x="425" y="207" key="run.anything.popup" timestamp="1586075071435">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="425" y="207" key="run.anything.popup/0.40.1536.824@0.40.1536.824" timestamp="1586075071435" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1586135902960">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.40.1536.824@0.40.1536.824" timestamp="1586135902960" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/nextSort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/nextSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
